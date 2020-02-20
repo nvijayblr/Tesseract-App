@@ -1,0 +1,2 @@
+# Tesseract-App
+React, Tesseract
