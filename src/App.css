@@ -1,0 +1,48 @@
+.carousel {
+  width: 400px;
+  min-height: 500px;
+  margin: auto;
+  border: 2px solid #ccc;
+  padding: 10px;
+  cursor: pointer;
+}
+.carousel-indicators {
+  background-color: #cccccc;
+  opacity: 0.8;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+  background-color: #ccc;
+  opacity: 0.4;
+}
+.loading {
+  text-align: center;
+  margin-top: 48%;
+}
+.card-details {
+  width: 70%;
+  margin: auto;
+  margin-top: 20px;
+}
+.card-img-top {
+  height: auto;
+  margin: auto;
+  width: 100px !important;
+}
+.btn-wrp {
+  text-align: center;
+}
+.scanned-text {
+  text-align: center;
+  margin-top: 20px;
+  border: 2px solid #000;
+  padding: 5px;  
+}
+.status {
+  font-size: 14px;
+  color: #000;
+  opacity: 0.8;
+}
+.tesseract-text {
+  color: green;
+  font-weight: bold;
+}
